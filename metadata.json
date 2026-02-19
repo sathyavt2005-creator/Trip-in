@@ -1,0 +1,7 @@
+{
+  "name": "TRIP-IN – Smart Travel Guide",
+  "description": "A comprehensive, responsive travel platform to discover destinations, hotels, and restaurants with AI-powered trip planning and traveler reviews.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
